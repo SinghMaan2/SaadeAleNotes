@@ -202,3 +202,10 @@ marquee{
     border: 4px solid blueviolet;
     color: blueviolet;
 }
+@media (orientation: landscape){
+    iframe{
+        width: 100%
+        height: 100%
+        margin: 0px 10px;
+    }
+}
