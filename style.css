@@ -97,6 +97,10 @@ section{
 .cont1 img{
     height: 60px;
 }
+iframe{
+    height: 100%;
+    width: 100%;
+}
 
 @media (max-width:720px) {
     .sub1{
