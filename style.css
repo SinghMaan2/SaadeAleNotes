@@ -109,18 +109,21 @@ iframe{
     }
     .sub1 video{
         width: 100%;
+        margin: 2px;
     }
     .sub2{
         flex-direction: column;
     }
     .sub2 video{
         width: 100%;
+        margin:2px;
     }
     .sub3{
         flex-direction: column;
     }
     .sub3 video{
         width: 100%;
+        margin:2px;
     }
     section{
         width: 100%;
